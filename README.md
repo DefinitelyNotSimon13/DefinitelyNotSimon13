@@ -1,4 +1,7 @@
 - # Currently active projects ...
+
+  <details>
+    
   - ## [Catpuccin Dotfiles](https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles/tree/main/.config)
 <details>
 This project includes my dotfiles for my hyprland setup, which is heavily based on the Catppuccin theme. Many areas are still work in progress. For now the main goal is adding/updating/improving the scripts for installation and misc tasks.
@@ -36,7 +39,7 @@ TODO
 |practiceTask1|C++|Who knows?|
 
 </details>
-
+</details>
 
 - # Finished projects ...
 <details>
