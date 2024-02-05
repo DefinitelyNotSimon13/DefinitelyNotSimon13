@@ -1,10 +1,26 @@
 ### Hi there 👋
 
 # Currently active projects ...
+## Dotfiles
+### Main repository
+
+### Submodules
+|Name|Description|
+|----|-----------|
+
+## University Projects
+|Name|Language|Goal|
+|----|--------|---–|
 
 # Finished projects ..
+|Name|Language|Goal|
+|----|--------|---–|
 
 # Inactive/Abandoned projects..
+|Name|Language|Goal|
+|----|--------|---–|
+
+
 
 <!--
 **DefinitelyNotSimon13/DefinitelyNotSimon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
