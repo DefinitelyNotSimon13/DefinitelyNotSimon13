@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Currently active projects ...
+
+# Finished projects ..
+
+# Inactive/Abandoned projects..
+
 <!--
 **DefinitelyNotSimon13/DefinitelyNotSimon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
