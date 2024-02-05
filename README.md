@@ -1,6 +1,7 @@
 ### Hi there 👋
+<details>
+<summary># Currently active projects ...</summary>
 
-# Currently active projects ...
 ## Dotfiles
 ### Main repository
 
@@ -13,6 +14,8 @@
 |Name|Language|Goal|
 |----|--------|---–|
 |practiceTask1|C++|Who knows?|
+
+</details>
 
 # Finished projects ...
 |Name|Language|Goal|
