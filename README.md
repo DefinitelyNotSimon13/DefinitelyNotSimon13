@@ -7,7 +7,10 @@
 
 This project includes my dotfiles for my hyprland setup, which is heavily based on the Catppuccin theme. Many areas are still work in progress. For now the main goal is adding/updating/improving the scripts for installation and misc tasks.
 
-### Submodules
+
+<details>
+<summary>Submodules</summary>
+    
 |Name|Description|
 |----|-----------|
 |[alacrittyConf](https://github.com/DefinitelyNotSimon13/alacrittyConf/tree/0232a1572bd47af530a875bc45182d6173ade645)|Dotfiles for alacritty|
@@ -22,6 +25,7 @@ This project includes my dotfiles for my hyprland setup, which is heavily based 
 |[tmuxConf](https://github.com/DefinitelyNotSimon13/tmuxConf/tree/5288db401c00c09bd4dae6dfc6233dba6e1e1c87)|Dotfiles for tmux|
 |[waybarConf](https://github.com/DefinitelyNotSimon13/waybarConf/tree/81135cc1cfcf87bd6fdc5811a3f11d801d625017)|Dotfiles for waybar|
 
+</details>
 
   - ## [Ergos](https://github.com/DefinitelyNotSimon13/Ergos) - Personal Project Management
 
