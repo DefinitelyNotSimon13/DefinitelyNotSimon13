@@ -2,7 +2,6 @@
 
 # Currently active projects ...
 ## Dotfiles
-
 <details>
   
 ### Main repository
@@ -11,15 +10,15 @@
 |Name|Description|
 |----|-----------|
 |hyprConf|Dotfiles for hyprland and hyprpaper|
+
 </details>
 
 ## University Projects
-
 <details>
-
-|Name|Language|Goal|
-|----|--------|---–|
-|practiceTask1|C++|Who knows?|
+  
+| Name | Language | Goal |
+| ---- | -------- | ---– |
+| practiceTask1 | C++ | Who knows? |
 
 </details>
 
