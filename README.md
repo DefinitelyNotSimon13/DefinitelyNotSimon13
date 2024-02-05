@@ -1,21 +1,23 @@
 ### Hi there 👋
-<details>
-<summary><h1>Currently active projects ...</h1></summary>
 
+# Currently active projects ...
 ## Dotfiles
+<details>
 ### Main repository
 
 ### Submodules
 |Name|Description|
 |----|-----------|
 |hyprConf|Dotfiles for hyprland and hyprpaper|
-
+</details>
 ## University Projects
+<details>
+
 |Name|Language|Goal|
 |----|--------|---–|
 |practiceTask1|C++|Who knows?|
+</details>details>
 
-</details>
 
 # Finished projects ...
 |Name|Language|Goal|
