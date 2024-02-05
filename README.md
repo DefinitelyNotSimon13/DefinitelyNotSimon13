@@ -1,6 +1,6 @@
 ### Hi there 👋
 <details>
-<summary># Currently active projects ...</summary>
+<summary><h1>Currently active projects ...</h1></summary>
 
 ## Dotfiles
 ### Main repository
@@ -20,7 +20,7 @@
 # Finished projects ...
 |Name|Language|Goal|
 |----|--------|---–|
-|Placeholder|||
+|Placeholder|Plholder|Plholder|
 
 # Inactive/Abandoned projects ...
 |Name|Language|Goal|
