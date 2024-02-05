@@ -1,7 +1,5 @@
-### *WIP* Hi there 👋 
-
-# Currently active projects ...
-## [Catpuccin Dotfiles](https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles/tree/main/.config)
+- # Currently active projects ...
+  - ## [Catpuccin Dotfiles](https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles/tree/main/.config)
 <details>
 This project includes my dotfiles for my hyprland setup, which is heavily based on the Catppuccin theme. Many areas are still work in progress. For now the main goal is adding/updating/improving the scripts for installation and misc tasks.
 
@@ -22,7 +20,7 @@ This project includes my dotfiles for my hyprland setup, which is heavily based 
 
 </details>
 
-## [Ergos](https://github.com/DefinitelyNotSimon13/Ergos) - Personal Project Management
+  - ## [Ergos](https://github.com/DefinitelyNotSimon13/Ergos) - Personal Project Management
 
 <details>
   
@@ -30,7 +28,7 @@ TODO
 
 </details>
 
-## University Projects
+  - ## University Projects
 <details>
   
 |Name|Language|Goal|
@@ -40,7 +38,7 @@ TODO
 </details>
 
 
-# Finished projects ...
+- # Finished projects ...
 <details>
   
 |Name|Language|Goal|
@@ -49,16 +47,18 @@ TODO
 
 </details>
 
-# Inactive/Abandoned projects ...
+- # Inactive/Abandoned projects ...
 <details>
 
 |Name|Language|Goal|
 |-|-|-|
-|Apos|C++|Learn more about databases|
-|PortfolioWebsite|PHP|Learn about web-dev and create a portfolio website|
-|AlphaFlutter|Dart||
-|Eikon|Dart||
-|Aroy|C++||
-|Delta|C++||
+|[Apos](https://github.com/DefinitelyNotSimon13/Apos)|C++|Learn more about databases|
+|[PortfolioWebsite](https://github.com/DefinitelyNotSimon13/personalWebsite)|PHP|Learn about web-dev and create a portfolio website|
+|[Eikon](https://github.com/DefinitelyNotSimon13/Eikon)|Dart||
+|[Aroy](https://github.com/DefinitelyNotSimon13/Aroy)|C++||
+|[Delta](https://github.com/DefinitelyNotSimon13/DeltaAPPM-QT)|C++||
+|[Uselynk](https://github.com/DefinitelyNotSimon13/Uselynk)|Java||
+|[DiscordBot](https://github.com/DefinitelyNotSimon13/DiscordBot)https://github.com/DefinitelyNotSimon13/DiscordBot|JavaScript||
+|[SchoolProjectWebsite](https://github.com/DefinitelyNotSimon13/InfoWebsiteProjekt)https://github.com/DefinitelyNotSimon13/InfoWebsiteProjekt|HTML/CSS/JS||
 
 </details>
