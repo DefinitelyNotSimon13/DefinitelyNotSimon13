@@ -7,19 +7,22 @@
 ### Submodules
 |Name|Description|
 |----|-----------|
+|hyprConf|Dotfiles for hyprland and hyprpaper|
 
 ## University Projects
 |Name|Language|Goal|
 |----|--------|---–|
+|practiceTask1|C++|Who knows?|
 
-# Finished projects ..
+# Finished projects ...
 |Name|Language|Goal|
 |----|--------|---–|
+|Placeholder|||
 
-# Inactive/Abandoned projects..
+# Inactive/Abandoned projects ...
 |Name|Language|Goal|
 |----|--------|---–|
-
+|Apos|C++|Learn more about databases|
 
 
 <!--
