@@ -1,6 +1,7 @@
-- # Currently active projects ...
+# Currently active projects
 
 <details>
+<summary>See more...</summary>
     
   - ## [Catpuccin Dotfiles](https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles/tree/main/.config)
 
@@ -36,8 +37,9 @@ TODO
 
 </details>
 
-- # Finished projects ...
+# Finished projects
 <details>
+<summary>See more...</summary>
   
 |Name|Language|Goal|
 |-|-|-|
@@ -45,8 +47,9 @@ TODO
 
 </details>
 
-- # Inactive/Abandoned projects ...
+# Inactive/Abandoned projects
 <details>
+<summary>See more...</summary>
 
 |Name|Language|Goal|
 |-|-|-|
