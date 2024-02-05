@@ -1,10 +1,9 @@
 ### *WIP* Hi there 👋 
 
 # Currently active projects ...
-## Dotfiles
+## [Catpuccin Dotfiles](https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles/tree/main/.config)
 <details>
-  
-### Main repository
+This project includes my dotfiles for my hyprland setup, which is heavily based on the Catppuccin theme. Many areas are still work in progress. For now the main goal is adding/updating/improving the scripts for installation and misc tasks.
 
 ### Submodules
 |Name|Description|
@@ -20,6 +19,14 @@
 |.[themes](https://github.com/DefinitelyNotSimon13/.themes/tree/b1317633b563c95d48c55503fb65396af8c0fee0)|*to be integrated in main repo*|
 |[tmuxConf](https://github.com/DefinitelyNotSimon13/tmuxConf/tree/5288db401c00c09bd4dae6dfc6233dba6e1e1c87)|Dotfiles for tmux|
 |[waybarConf](https://github.com/DefinitelyNotSimon13/waybarConf/tree/81135cc1cfcf87bd6fdc5811a3f11d801d625017)|Dotfiles for waybar|
+
+</details>
+
+## [Ergos](https://github.com/DefinitelyNotSimon13/Ergos) - Personal Project Management
+
+<details>
+  
+TODO
 
 </details>
 
@@ -48,5 +55,10 @@
 |Name|Language|Goal|
 |-|-|-|
 |Apos|C++|Learn more about databases|
+|PortfolioWebsite|PHP|Learn about web-dev and create a portfolio website|
+|AlphaFlutter|Dart||
+|Eikon|Dart||
+|Aroy|C++||
+|Delta|C++||
 
 </details>
